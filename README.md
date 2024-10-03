@@ -24,8 +24,8 @@ Welcome to the LangChain AI Elective homework repository! This repo contains all
 
    ```bash
    <!-- TODO: UPDATE TO MY  -->
-   git clone https://github.com/Devilfish281/ai_elective
-   cd ai_electi
+   git clone https://github.com/Devilfish281/class_project_ai
+   cd class_project_ai
    ```
 
 2. Install dependencies using Poetry:
